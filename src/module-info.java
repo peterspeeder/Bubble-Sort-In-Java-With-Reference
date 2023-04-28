@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author peterkolev
+ *
+ */
+module Algorithms {
+}
