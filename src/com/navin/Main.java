@@ -10,8 +10,8 @@ public class Main {
 		Bubbles bubbles = new Bubbles();
 		Bubbles println = new Bubbles();
 		
-		bubbles.printDone();
-		println.sort(a);
+		println.printDone();
+		bubbles.sort(a);
 		
 		
 		System.out.println(Arrays.toString(a));
