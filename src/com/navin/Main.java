@@ -11,7 +11,7 @@ public class Main {
 		Bubbles println = new Bubbles();
 		
 		bubbles.printDone();
-		bubbles.sort(a);
+		println.sort(a);
 		
 		
 		System.out.println(Arrays.toString(a));
